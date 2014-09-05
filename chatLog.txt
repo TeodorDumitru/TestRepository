@@ -1,0 +1,8 @@
+Sep 05, 2014 11:08:17 AM echoserver.EchoServer main
+INFO: Sever started
+Sep 05, 2014 11:08:18 AM echoserver.EchoServer main
+INFO: Connected to a client
+Sep 05, 2014 11:08:18 AM echoserver.EchoServer handleClient
+INFO: Received the message: HELLO 
+Sep 05, 2014 11:08:18 AM echoserver.EchoServer handleClient
+INFO: Received the message: HELLO 
